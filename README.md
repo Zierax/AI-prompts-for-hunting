@@ -22,11 +22,11 @@ swiss army prompts for every bug hunter
 
 ### Match Your Skill Set to the Right Bug Bounty Program
 
-> List the best bug bounty programs that involve reading PHP source code for vulnerabilities
+> List the best bug bounty programs that involve reading PHP source code for vulnerabilities from hackerone,bugcrowd
 
 ### Condense Terms
 
-> Summarize &lt;insert program&gt;’s bug bounty program in 3 bullet points including scope, rewards, and out-of-scope. Make it concise.
+> Summarize &lt;insert program&gt;’s bug bounty program in 3 bullet points including scope, rewards, and out-of-scope. Make it concise. results is report
 
 ### Maximize the Impact of Your Reports
 
